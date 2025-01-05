@@ -54,7 +54,7 @@ Este dashboard foi criado para monitorar e analisar o desempenho das entregas, f
 
 ## Arquivo .pbix
 
-O arquivo `dashboard_logistica.pbix` contém o projeto completo do Power BI.
+O arquivo `Análise de dados - Logística.pbix` contém o projeto completo do Power BI.
 
 ## Como visualizar
 
