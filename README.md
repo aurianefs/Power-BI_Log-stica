@@ -35,7 +35,7 @@ Este dashboard foi criado para monitorar e analisar o desempenho das entregas, f
 *   **Total de Entrega por Cidade:**
     *   Gráfico de barras mostrando o número de entregas para cada cidade.
 
-[Captura de tela do Dashboard ![Análise de dados de logística]
+[Captura de tela do Dashboard - ![Análise de dados de logística](https://github.com/user-attachments/assets/8f4a3845-e841-4d63-9a7d-ac12254a9c20)
 
 ## Processo de ETL
 
