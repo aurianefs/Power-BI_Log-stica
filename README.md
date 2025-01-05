@@ -7,7 +7,7 @@ Este dashboard foi criado para monitorar e analisar o desempenho das entregas, f
 *   Banco de dados ou arquivos (CSV) contendo informações sobre as entregas, incluindo:
     *   Data da entrega
     *   Data prevista de entrega
-    *   Canal de entrega (ex: Correios, transportadora, entrega própria)
+    *   Canal de entrega 
     *   Vendedor responsável
     *   Status da entrega (ex: Entregue, Pendente, Atrasado, Cancelado)
     *   Equipe responsável pela entrega
@@ -35,7 +35,7 @@ Este dashboard foi criado para monitorar e analisar o desempenho das entregas, f
 *   **Total de Entrega por Cidade:**
     *   Gráfico de barras mostrando o número de entregas para cada cidade.
 
-[Captura de tela do Dashboard ![Análise de dados de logística](https://github.com/user-attachments/assets/fb24830e-1846-436a-b981-64ec9ce2c505)
+[Captura de tela do Dashboard ![Análise de dados de logística]
 
 ## Processo de ETL
 
